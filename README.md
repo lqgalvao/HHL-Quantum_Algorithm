@@ -1,1 +1,13 @@
-# HHL-Quantum_Algorithm
+[eng]
+# Solving Linear Systems with the HHL Quantum Algorithm: A Theoretical-Practical Tutorial
+
+Quantum computing enables the efficient resolution of complex problems, outperforming classical methods in several applications. In 2009, Harrow, Hassidim, and Lloyd proposed the HHL algorithm for linear systems, demonstrating exponential speedup with complexity $poly(\log N)$, in contrast to classical approaches of order $O(N)$. This algorithm has potential for advances in \textit{machine learning}, \textit{quantum finance}, differential equations, linear regression, and attacks on cryptosystems. However, its structure is complex, and there are few detailed materials available. This tutorial presents a didactic approach to HHL, explaining its theoretical foundation, practical implementation, and computational challenges. Initially, we discuss the underlying mathematical and physical concepts, followed by a numerical example illustrating the evolution of the quantum circuit. Finally, we analyze its complexity, limitations, and future perspectives. The implementation of a linear system $2 \times 2$ was performed at the \textit{IBM Quantum Experience}, and the results obtained were compared with classical simulations, allowing a practical evaluation of the algorithm.
+
+**Authors: Lucas Q. Galvão, Anna Beatriz M de Souza, Alexandre Oliveira S. Santos, André Saimon S. Souza and Clebson Cruz**
+
+[pt]
+# Resolvendo Sistemas Lineares com o Algoritmo Quântico HHL: Um Tutorial Teórico-Prático
+
+A computação quântica possibilita a resolução eficiente de problemas complexos, superando métodos clássicos em diversas aplicações. Em 2009, Harrow, Hassidim e Lloyd propuseram o algoritmo HHL para sistemas lineares, demonstrando aceleração exponencial com complexidade $poly(\log N)$, em contraste com abordagens clássicas de ordem $O(N)$. Esse algoritmo tem potencial para avanços em \textit{machine learning}, \textit{quantum finance}, equações diferenciais, regressão linear e ataques a criptossistemas. No entanto, sua estrutura é complexa, e há poucos materiais detalhados disponíveis. Este tutorial apresenta uma abordagem didática do HHL, explicando sua fundamentação teórica, implementação prática e desafios computacionais. Inicialmente, discutimos os conceitos matemáticos e físicos subjacentes, seguidos de um exemplo numérico ilustrando a evolução do circuito quântico. Por fim, analisamos sua complexidade, limitações e perspectivas futuras. A implementação de um sistema linear $2 \times 2$ foi realizada na \textit{IBM Quantum Experience}, e os resultados obtidos foram comparados com simulações clássicas, permitindo uma avaliação prática do algoritmo.
+
+**Authors: Lucas Q. Galvão, Anna Beatriz M de Souza, Alexandre Oliveira S. Santos, André Saimon S. Souza e Clebson Cruz**
