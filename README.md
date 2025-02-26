@@ -3,7 +3,7 @@
 
 Quantum computing enables the efficient resolution of complex problems, outperforming classical methods in several applications. In 2009, Harrow, Hassidim, and Lloyd proposed the HHL algorithm for linear systems, demonstrating exponential speedup with complexity $poly(\log N)$, in contrast to classical approaches of order $O(N)$. This algorithm has potential for advances in \textit{machine learning}, \textit{quantum finance}, differential equations, linear regression, and attacks on cryptosystems. However, its structure is complex, and there are few detailed materials available. This tutorial presents a didactic approach to HHL, explaining its theoretical foundation, practical implementation, and computational challenges. Initially, we discuss the underlying mathematical and physical concepts, followed by a numerical example illustrating the evolution of the quantum circuit. Finally, we analyze its complexity, limitations, and future perspectives. The implementation of a linear system $2 \times 2$ was performed at the \textit{IBM Quantum Experience}, and the results obtained were compared with classical simulations, allowing a practical evaluation of the algorithm.
 
-**Authors: Lucas Q. Galvão, Anna Beatriz M de Souza, Alexandre Oliveira S. Santos, André Saimon S. Souza and Clebson Cruz**
+**Autores: Lucas Q. Galvão, Anna Beatriz M de Souza, Alexandre Oliveira S. Santos, André Saimon S. Souza and Clebson Cruz**
 
 [pt]
 # Resolvendo Sistemas Lineares com o Algoritmo Quântico HHL: Um Tutorial Teórico-Prático
